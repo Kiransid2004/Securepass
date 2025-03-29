@@ -1,0 +1,5 @@
+Securepass/
+├── Securepass.py        # Main Python application
+├── passwords.txt        # Encrypted storage for passwords (created at runtime)
+├── key.key              # Encryption key (created at runtime)
+├── README.md            # Project documentation
